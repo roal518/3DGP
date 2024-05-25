@@ -1,0 +1,8 @@
+﻿  GameFrameWork.cpp
+  LabProject05.cpp
+  Scene.cpp
+  stdafx.cpp
+  Timer.cpp
+  코드를 생성하고 있습니다...
+C:\Users\MSI\source\repos\LabProject03\LabProject05\Scene.cpp(143): error C4716: 'CScene::ProcessInput': 값을 반환해야 합니다.
+C:\Users\MSI\source\repos\LabProject03\LabProject05\LabProject05.cpp(67): warning C4715: 'wWinMain': 모든 제어 경로에서 값을 반환하지는 않습니다.
